@@ -13,7 +13,7 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 ---
 
-## Título Proyecto: Cine
+## Título Proyecto: Multicine
 
 ### Curso Escolar 2020-2021
 
