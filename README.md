@@ -2,9 +2,9 @@
 
 ### Curso Escolar 2020-2021
 
-### Autor: [Nombre del alumno autor](Enlace a su cuenta de gitHub)
+### Autor: Alvaro Membrillo (https://github.com/alvaro-membrillo)
 
-### Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
+### Tutor: Chema Durán (https://github.com/chemaduran)
 
 ### Fecha de Inicio: 07-10-2020
 
